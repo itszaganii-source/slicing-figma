@@ -38,7 +38,6 @@ Arsitektur folder di dalam direktori `src/` disusun secara rapi dan profesional 
 
 ```text
 src/
-├── assets/          # File gambar, logo, dan grafis statis
 ├── components/      # Komponen-komponen UI yang modular dan terisolasi
 │   ├── Navbar.jsx
 │   ├── Hero.jsx
